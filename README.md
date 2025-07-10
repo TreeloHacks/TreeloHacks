@@ -16,8 +16,9 @@
 ## 🌱 What I'm Up To
 - Building my portfolio site from scratch
 - Experimenting with emulator tools & game-inspired utilities
-- Looking for SWE/UX internships for 2025
+- Finishing my degree by spring '26
+- Looking for SWE/UX internships for 2026
 
 Let's connect!  
-📫 [Email me](me@builtbydani.dev) | [LinkedIn](https://www.linkedin.com/in/daniel-richards-761940b4/) | [builtbydani.dev](https://builtbydani.dev)
+📫 [Email me](dan.richards218@gmail.com) | [LinkedIn](https://www.linkedin.com/in/daniel-richards-761940b4/) | [builtbydani.dev](https://builtbydani.dev)
 
