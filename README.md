@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello World, I’m Daniel 👋
 
-<!--
-**TreeloHacks/TreeloHacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> aka TreeloHacks — builder, hacker, and full-stack enthusiast ✨
 
-Here are some ideas to get you started:
+🎓 I'm a Computer Science student with a passion for creative tech, game dev, and building tools that make work fun.  
+💻 Currently working on [builtbydani.dev](https://builtbydani.dev) – my digital home base for projects, experiments, and ideas.  
+🎮 I’m especially into retro gaming, emulator dev, and security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech I Like
+- JavaScript / TypeScript
+- Python
+- Rust
+- React / Tailwind / Node
+- Machine Learning & Game Systems
+
+## 🌱 What I'm Up To
+- Building my portfolio site from scratch
+- Experimenting with emulator tools & game-inspired utilities
+- Looking for SWE/UX internships for 2025
+
+Let's connect!  
+📫 [Email me](me@builtbydani.dev) | [LinkedIn](https://www.linkedin.com/in/daniel-richards-761940b4/) | [builtbydani.dev](https://builtbydani.dev)
+
